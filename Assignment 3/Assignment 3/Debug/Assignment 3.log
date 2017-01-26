@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\sam\desktop\cs assignment 3\assignment 3\assignment 3\unoplayer.h(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\desktop\cs assignment 3\assignment 3\assignment 3\main.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment 3.vcxproj -> C:\Users\Sam\Desktop\CS Assignment 3\Assignment 3\Debug\Assignment 3.exe
+  Assignment 3.vcxproj -> C:\Users\Sam\Desktop\CS Assignment 3\Assignment 3\Debug\Assignment 3.pdb (Full PDB)
